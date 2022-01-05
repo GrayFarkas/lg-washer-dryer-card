@@ -43,7 +43,7 @@ cards:
           width: 10%
           image-rendering: crisp
       - type: image
-        entity: sensor.dishwasher_door_open
+        entity: sensor.dishwasher_door_lock
         image: /local/lg-icons/lock.png
         state_image:
           'off': /local/lg-icons/lock-on.png
